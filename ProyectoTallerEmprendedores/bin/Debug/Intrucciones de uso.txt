@@ -1,0 +1,4 @@
+1. Eejecuta el script en sql server.
+2. Abre la aplicación y úsala :)
+
+NOTA: Si al ejecutar el script mete datos a la basse, solo eliminalos.
